@@ -7,6 +7,7 @@
 /**********************/
 /*      FUNCTIONS     */
 /**********************/
+//Dummy Commentar
 
 dynamic_array_t *createDynamicArray()
 {
